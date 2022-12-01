@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd o+rwx hello
+chomd 007 hello
